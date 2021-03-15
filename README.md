@@ -16,7 +16,7 @@ Semantic labeling is a fundamental task that can provide useful semantics for ma
 (1) Comparisons with State-of-the-art methods (ISPRS Vaihingen dataset)
 ![img](Imgs/Accuracy.png)
 
-(2) Classification result (ISPRS Vaihingen dataset)
+(2) Classification result of VPNet-CRF **with the help of segmentation prior** (ISPRS Vaihingen dataset)
 ![img](Imgs/Vaihingen.png)
 
 (3) Generalization (Test data from Wuhan University)
