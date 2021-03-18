@@ -23,7 +23,7 @@ Semantic labeling is a fundamental task that can provide useful semantics for ma
 ![img](Imgs/Whu.png)
 
 ## Citation
-Please consider citing our paper:
+If it is helpful for your work, please consider citing our paper:
 
     @ARTICLE{Qin2020,
       author={N. {Qin} and X. {Hu} and P. {Wang} and J. {Shan} and Y. {Li}},
